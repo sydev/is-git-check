@@ -1,0 +1,30 @@
+{
+  "name": "is-git-check",
+  "version": "1.0.0",
+  "description": "Simple module to check whether a directory is a git repository or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "keywords": [
+    "is",
+    "git",
+    "check",
+    "npm"
+  ],
+  "author": {
+    "email": "dominik.winter92@gmail.com",
+    "name": "Dominik Winter"
+  },
+  "license": "MIT",
+  "jshintConfig": {
+    "esnext": true
+  },
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  },
+  "dependencies": {
+    "is-dir": "^1.0.0",
+    "is-there": "^4.3.3"
+  }
+}
