@@ -1,4 +1,4 @@
-#is-git
+#is-git-check
 #### Simple module to check whether a directory is a git repository or not
 
 ##### Installation
