@@ -1,6 +1,6 @@
 {
   "name": "is-git-check",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Simple module to check whether a directory is a git repository or not",
   "main": "index.js",
   "scripts": {

@@ -14,7 +14,14 @@ const isGit = require('is-git-check');
 isGit(process.cwd()) // returns true or false
 ```
 
+##### Test
+```bash
+npm test
+```
+
 ##### Changelog
+  - 1.1
+    - Added tests
   - 1.0.2
     - added useful comments in code
   - 1.0.1
