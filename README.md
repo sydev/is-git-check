@@ -11,7 +11,7 @@ npm install is-git-check
 const isGit = require('is-git-check');
 
 // checking current working directory
-isGit(process.cwd())
+isGit(process.cwd()) // returns true or false
 ```
 
 ##### Changelog
