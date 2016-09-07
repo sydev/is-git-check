@@ -15,6 +15,8 @@ isGit(process.cwd()) // returns true or false
 ```
 
 ##### Changelog
+  - 1.0.2
+    - added useful comments in code
   - 1.0.1
     - fixed typos in Readme
   - 1.0
