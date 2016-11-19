@@ -21,10 +21,10 @@
     "esnext": true
   },
   "devDependencies": {
-    "mocha": "^3.0.2"
+    "mocha": "^3.1.2"
   },
   "dependencies": {
     "is-dir": "^1.0.0",
-    "is-there": "^4.3.3"
+    "is-there": "^4.3.6"
   }
 }
