@@ -20,7 +20,9 @@ npm test
 ```
 
 ##### Changelog
-  - 1.1
+  - 1.1.1
+    - Update dependencies
+  - 1.1.0
     - Added tests
   - 1.0.2
     - added useful comments in code
